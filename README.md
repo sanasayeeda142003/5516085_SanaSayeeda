@@ -1,3 +1,4 @@
 # 5516085_SanaSayeeda
-![Logo](https://github.com/sanasayeeda142003/5516085_SanaSayeeda/blob/main/sana%20git%20certificate.pdf)
+
+![Alt Text](C:\Users\sana\OneDrive\Documents\5516085_SanaSayeeda\5516085_SanaSayeeda\sdlc_course.png)
 
